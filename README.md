@@ -38,8 +38,3 @@ This repository contains Jupyter Notebooks covering various fundamental concepts
 - Matplotlib & Seaborn
 - TensorFlow (if applicable)
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/machine-learning-notebooks.git
-   cd machine-learning-notebooks
